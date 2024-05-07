@@ -1,8 +1,6 @@
 # Site settings
 title: KC1RAO - Vincent Moeykens
 email: kc1rao@moeykens.net
-description: >- # this means to ignore newlines until "baseurl:"
-  This is the personal website of Vincent Moeykens, KC1RAO.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kc1rao.radio" # replace with your website URL
 github_username:  vmoeykens # replace with your GitHub username
