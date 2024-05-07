@@ -3,9 +3,6 @@ layout: home
 title: Home
 ---
 
-Hello! My name is Vincent, and I am a software engineer who is interested in amateur radio, digital radio protocols, emergency medicine, and the outdoors.
-
-On this website, you'll find information about my amateur radio projects, as well as some of my other hobbies and interests. I'm always interested in learning more, so please feel free to get in touch if you have any questions or suggestions.
 
 ### Currently Interested In
 
